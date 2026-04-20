@@ -1,6 +1,32 @@
-# DishUp Application
+# 🥗 Nutrition Tracking & Calorie Logging App
 
-A mobile application development project for CSC452 Mobile Programming. DishUp is an application that allows you to managed and maintained your health 
-simply by being able to plan your meal with good nutrition, and you're also able to add your daily routine whether it's
-an exercise routine or your sleep hours. This app will motivates you to become healthy in a long sustainable path.
+## 📌 Overview
+A mobile application built with Flutter (Dart) for tracking daily nutrition and calorie intake.  
+Users can log food, monitor calories, and track nutrition goals in a simple and clean UI.
 
+---
+
+## 🎯 Features
+- 🍎 Daily calorie tracking  
+- 🍽️ Food logging system  
+- 📊 Nutrition breakdown (protein, carbs, fat)  
+- 🎯 Goal tracking (calories / weight)  
+- 📅 History & progress tracking  
+- 👤 User profile  
+
+---
+
+## 🛠 Tech Stack
+- Flutter  
+- Dart  
+- Figma (UI Design)
+
+---
+
+## 🔗 Design
+https://www.figma.com/design/T9UBSxePrdFUBVxjSDNDGe/DishUp-Project?node-id=35-488&t=nQ0K8GjqLsK3meBq-0
+
+---
+
+## 👤 Author
+Phutithorn Trisat
